@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "35b4",
+      "department": "IT",
+      "name": "Saikrishna",
+      "mobile": "7438879777",
+      "email": "askachary2@gmail.com",
+      "gender": "male",
+      "doj": "2000-10-14",
+      "city": "Karachi",
+      "salary": "10000",
+      "address": "sasa",
+      "status": true
+    },
+    {
+      "id": "453b",
+      "department": "Sales",
+      "name": "Saikrishna",
+      "mobile": "74388797777",
+      "email": "askachar03@gmail.com",
+      "gender": "male",
+      "doj": "2000-10-14",
+      "city": "Lahore",
+      "salary": "25555",
+      "address": "sasa",
+      "status": false
+    }
+  ]
+}
